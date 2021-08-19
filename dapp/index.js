@@ -1,0 +1,1 @@
+module.exports.NganHang = require('./build/NganHang.json')
